@@ -1,0 +1,14 @@
+/.idea/
+/target/
+/.gradle/
+/build/
+/pi4j-example-minimal.iml
+.github/workflows
+assets
+gradle/wrapper
+src/license
+LICENSE
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
